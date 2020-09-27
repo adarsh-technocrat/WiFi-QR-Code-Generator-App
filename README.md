@@ -1,13 +1,16 @@
 # WiFi-QR-Code-Generator-App
 
-An elegant notes taking app written in Flutter that uses sqflite for storage.
+WiFi-QR-Code-Generator-App  is a brand-new app that brings internet-users together, letting you share your Wi-Fi or hotspot with others through one simple QR code. No more worries about forgetting (or exposing…) sensitive login information! With the code, your friends can connect in an instant.
 
-## Features
-1. *Create Notes*: An Elegant and Easy way to write Notes.
-2. *Themes*: Can able to Choose different themes for notes
-3. *Mark notes as important*: Mark notes as important on the bases of Low  ,High Very High.
-4. *Search*: Search your notes.
-5. *Edit note*: Edit note that you saved previously
+The connection can be shared by scanning the QR code in the form pdf or jpg formate via various chat platforms. This is particularly great for restaurants, coffee shops, and other venues that offer WiFi. Visitors can simply scan a QR code that is placed out by the business to connect to wifi.
+
+WiFi-QR-Code-Generator-App is the better, smarter, and simpler way to connect and share. Rest assured with a piece of mind that your information is safe and protected. Whether you have a business or are just someone who wants to share a connection with those around you, this is a must-have service.
+
+How WiFi-QR-Code-Generator-App works?
+Just add the credentials for the first time and you are ready to share your WiFi or Hotspots with others.
+1. Add your WiFi or mobile hotspot credentials
+2. Click on QR code and send your QR code in the form PDF or JPG
+You can share your WiFi OR code with others via various chat platforms or messaging apps. Is that simple!
 
 ## Dependencies 
 -  sqflite:
