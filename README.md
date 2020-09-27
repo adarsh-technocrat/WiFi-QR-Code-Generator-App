@@ -50,26 +50,23 @@ You can share your WiFi OR code with others via various chat platforms or messag
 
 <p align ="middle">
  
-<img src="https://user-images.githubusercontent.com/47661086/89108740-7f873780-d458-11ea-842a-13733467bb25.jpeg" 
+<img src="https://user-images.githubusercontent.com/47661086/94371227-a8534280-0112-11eb-9260-88078fb17c94.jpg" 
 width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/47661086/89108925-63849580-d45a-11ea-9ab5-f342b4618e1a.jpeg" 
+<img src="https://user-images.githubusercontent.com/47661086/94371228-a9846f80-0112-11eb-8dce-0628b76208f6.jpg" 
 width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/47661086/89108958-a181b980-d45a-11ea-965c-1c2ef75c9fc3.jpeg" 
+<img src="https://user-images.githubusercontent.com/47661086/94371229-aa1d0600-0112-11eb-861f-0e73c2cf2bc8.jpg" 
 width="200" height="400" />  
  </p>
  
 <p align ="middle">
-<img src="https://user-images.githubusercontent.com/47661086/89108986-e0b00a80-d45a-11ea-9570-8c5f7e4c9e6b.jpeg" 
+<img src="https://user-images.githubusercontent.com/47661086/94371230-abe6c980-0112-11eb-9cfe-715dba926ddb.jpg" 
 width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/47661086/89108989-e3aafb00-d45a-11ea-9ca1-cd22b767edd1.jpeg" 
+<img src="https://user-images.githubusercontent.com/47661086/94371231-ad17f680-0112-11eb-8a0b-6be8dfe52529.jpg" 
 width="200" height="400" />
 </p>
 
+
 ## App Demo.
 
-<p align ="middle">
-<img src="https://user-images.githubusercontent.com/47661086/89109201-c7a85900-d45c-11ea-94e7-723f3c6b3411.gif" 
-width="400" height="800" />
-</p>  
 
 ## Feedback is welcome! Contact me for any info.
