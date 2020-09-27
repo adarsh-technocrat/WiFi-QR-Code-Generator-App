@@ -13,13 +13,29 @@ Just add the credentials for the first time and you are ready to share your WiFi
 You can share your WiFi OR code with others via various chat platforms or messaging apps. Is that simple!
 
 ## Dependencies 
--  sqflite:
--  path_provider:
--  intl:
-- flutter_staggered_grid_view: ^0.3.0
--  shared_preferences: ^0.5.6+3
-
-
+ - flutter_icons: ^1.1.0
+ - connectivity: ^0.4.9
+ - provider: ^2.0.1
+ - animate_do: ^1.7.2
+ - fluttertoast: ^4.0.1
+ - flutter_spinkit: "^4.1.2"
+ - google_fonts:
+ - wifi: ^0.1.5
+ - barcode: ^1.13.0
+ - barcode_widget: ^1.3.0
+ - flutter_svg: ^0.18.0
+ - open_file:
+ - qr_flutter: ^3.2.0
+ - barcode_image:
+ - path_provider:
+ - pdf:
+ - sqflite: ^1.2.0
+ - path:
+ - permission_handler: ^5.0.1
+ - shared_preferences: ^0.5.6+3
+ - animated_text_kit: ^2.2.0
+ - share: ^0.6.4+3
+ 
 ## Run the project
 - With Flutter installed, clone project and run `flutter run --release` in that directory,
 
