@@ -52,8 +52,7 @@ You can share your WiFi OR code with others via various chat platforms or messag
  
 <img src="https://user-images.githubusercontent.com/47661086/94371227-a8534280-0112-11eb-9260-88078fb17c94.jpg" 
 width="200" height="400" />
-<img src="https://user-images.githubusercontent.com/47661086/94371228-a9846f80-0112-11eb-8dce-0628b76208f6.jpg" 
-width="200" height="400" />
+
 <img src="https://user-images.githubusercontent.com/47661086/94371229-aa1d0600-0112-11eb-861f-0e73c2cf2bc8.jpg" 
 width="200" height="400" />  
  </p>
