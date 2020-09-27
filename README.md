@@ -46,16 +46,9 @@ You can share your WiFi OR code with others via various chat platforms or messag
 <img src = "https://user-images.githubusercontent.com/47661086/94371221-a12c3480-0112-11eb-845f-aee9dcfbb772.jpg" width="200" height="400" /> 
 <img src ="https://user-images.githubusercontent.com/47661086/94371225-a5585200-0112-11eb-9db8-7690fd2a4ad7.jpg" width="200" height="400"/>
 <img src ="https://user-images.githubusercontent.com/47661086/94371226-a7221580-0112-11eb-8e06-9b8fa4abdab5.jpg" width="200" height="400"/> 
+<img src="https://user-images.githubusercontent.com/47661086/94371229-aa1d0600-0112-11eb-861f-0e73c2cf2bc8.jpg" width="200" height="400" />  
+<img src="https://user-images.githubusercontent.com/47661086/94371227-a8534280-0112-11eb-9260-88078fb17c94.jpg" width="200" height="400" />
 </p>
-
-<p align ="middle">
- 
-<img src="https://user-images.githubusercontent.com/47661086/94371227-a8534280-0112-11eb-9260-88078fb17c94.jpg" 
-width="200" height="400" />
-
-<img src="https://user-images.githubusercontent.com/47661086/94371229-aa1d0600-0112-11eb-861f-0e73c2cf2bc8.jpg" 
-width="200" height="400" />  
- </p>
  
 <p align ="middle">
 <img src="https://user-images.githubusercontent.com/47661086/94371230-abe6c980-0112-11eb-9cfe-715dba926ddb.jpg" 
