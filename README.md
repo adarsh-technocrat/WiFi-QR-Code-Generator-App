@@ -43,12 +43,13 @@ You can share your WiFi OR code with others via various chat platforms or messag
 ## Screenshots
 
 <p align ="middle">
-<img src = "https://user-images.githubusercontent.com/47661086/89108367-78125f00-d455-11ea-9df8-491246acf17b.jpeg" width="200" height="400" /> 
-<img src ="https://user-images.githubusercontent.com/47661086/89108473-75643980-d456-11ea-8991-b364a88a8a35.jpeg" width="200" height="400"/>
-  <img src ="https://user-images.githubusercontent.com/47661086/89108715-3e8f2300-d458-11ea-8da0-45bdc4cdd0c8.jpeg" width="200" height="400"/>
+<img src = "https://user-images.githubusercontent.com/47661086/94371221-a12c3480-0112-11eb-845f-aee9dcfbb772.jpg" width="200" height="400" /> 
+<img src ="https://user-images.githubusercontent.com/47661086/94371225-a5585200-0112-11eb-9db8-7690fd2a4ad7.jpg" width="200" height="400"/>
+<img src ="https://user-images.githubusercontent.com/47661086/94371226-a7221580-0112-11eb-8e06-9b8fa4abdab5.jpg" width="200" height="400"/> 
 </p>
 
 <p align ="middle">
+ 
 <img src="https://user-images.githubusercontent.com/47661086/89108740-7f873780-d458-11ea-842a-13733467bb25.jpeg" 
 width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/47661086/89108925-63849580-d45a-11ea-9ab5-f342b4618e1a.jpeg" 
