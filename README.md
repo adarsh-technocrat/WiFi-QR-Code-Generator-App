@@ -12,6 +12,8 @@ Just add the credentials for the first time and you are ready to share your WiFi
 2. Click on QR code and send your QR code in the form PDF or JPG
 You can share your WiFi OR code with others via various chat platforms or messaging apps. Is that simple!
 
+Playstore Link :- https://play.google.com/store/apps/details?id=com.technocrate.wifilink
+
 ## Dependencies 
  - flutter_icons: ^1.1.0
  - connectivity: ^0.4.9
